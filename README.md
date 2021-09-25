@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Image of N++](https://github.com/aB1s/ab1s/blob/main/n++.gif)
+<br />Copyright © -> <a href="https://www.metanetsoftware.com/games/nplusplus">Metanet Software Inc. / N++</a>
 
 <!--
 **aB1s/ab1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
